@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-**I'm a growing Mobile App Developer**
+## **I'm a growing Mobile App Developer**
 
 - 🔭 I’m currently working on mobile app proejcts
 - 🌱 I’m currently learning Flutter and Dart to build Mobile apps
